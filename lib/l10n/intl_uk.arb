@@ -1,0 +1,21 @@
+{
+    "@@locale": "uk",
+    "weather": "Погода",
+    "todo": "Замітки",
+    "allToDo": "Показати всі замітки",
+    "doneToDo": "Показати виконані замітки",
+    "notDoneToDo": "Показати невиконані замітки",
+    "filterCategory": "Фильтрація за категорією:",
+    "done": "Готово",
+    "title": "Назва замітки",
+    "category": "Категорія",
+    "description": "Опис",
+    "newToDo": "Нова замітка",
+    "updateToDo": "Оновити ToDo",
+    "getCurrentWeather": "Отримати погоду на зараз",
+    "updateCurrentWeather": "Оновити погоду на зараз",
+    "currentWeather": "Погода зараз",
+    "city": "Місто",
+    "temperature": "Температура",
+    "errorWeatherGeoData": "Будь ласка, дайте дозвіл до геоданних у налаштуваннях"
+}

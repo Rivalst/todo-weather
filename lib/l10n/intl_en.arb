@@ -1,0 +1,22 @@
+{
+    "@@locale": "en",
+    "weather": "Weather",
+    "todo": "ToDo",
+    "allToDo": "Show all ToDo",
+    "doneToDo": "Show done ToDo",
+    "notDoneToDo": "Show not done ToDo",
+    "filterCategory": "Filter by category:",
+    "done": "done",
+    "title": "Title",
+    "category": "Category",
+    "description": "Description",
+    "newToDo": "Create New ToDo",
+    "updateToDo": "Update ToDo",
+    "getCurrentWeather": "Get current weather",
+    "updateCurrentWeather": "Update current weather",
+    "currentWeather": "Current weather",
+    "city": "City",
+    "temperature": "Temperature",
+    "errorWeatherGeoData": "Please give access to geodata parameters in settings"
+
+}

@@ -1,6 +1,6 @@
 # wat_do
 
-The simplest layout just to interact with the screen/buttons
+The simplest layout just to interact with the screen/buttons, minimun design.
 
 About the ToDo side:
 
